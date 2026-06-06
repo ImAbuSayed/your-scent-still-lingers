@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Scent Still Lingers
+
+This log tracks the cryptographic history and versioning for the song **Your Scent Still Lingers** (your-scent-still-lingers).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-06T13:34:02.479191 | `v1` | `a015fa93f667f47c914f5a105f6e3c3922ac3a827a8b22d6471d2f1a4769627d` | `3ee1ce5d5f5258bac74523d583acaa55e6aab442f1cdbec092abad1179e8cf4c` | `2026-06-06_your-scent-still-lingers-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
