@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-still-lingers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Your Scent Still Lingers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-still-lingers/) |
+| **Get License** | [License this song: Your Scent Still Lingers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-still-lingers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2750)
 
 ---
 
