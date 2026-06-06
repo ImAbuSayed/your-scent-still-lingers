@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-still-lingers/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Your Scent Still Lingers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-still-lingers/) |
+| **Get License** | [Request Licensing for Your Scent Still Lingers](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-still-lingers/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your shadow on the empty side of the bed
+> Tangled in the cotton where you laid your weary head
+> I trace the empty spaces where we used to intertwine
+> Bathing in the memory, I pretend that you're still mine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
